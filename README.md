@@ -35,6 +35,15 @@ Guides/Info of frameworks/libraries used in our project
 
 [Hailo Raspberry Pi 5 Examples](https://github.com/hailo-ai/hailo-rpi5-examples)
 
+## My contribution
+ • Implemented secure file storage using Firebase Storage, including encryption handling for images, videos, and text data
+ • Contributed to frontend components, including camera-triggered notification features using HTML, CSS, and JavaScript to enhance user interaction
+ • Debugged and resolved UI issues, improving system responsiveness and user experience
+ • Tracked project progress and documented milestones and issue resolutions for team/instructor review
+
+
+ • Documented and submitted interim reports tracking project milestones and issue resolutions for instructor revie
+
 [Hailo Applications Infrastructure](https://github.com/hailo-ai/hailo-apps-infra)
 
 [Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection/tree/master)
